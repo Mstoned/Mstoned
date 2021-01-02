@@ -2,6 +2,8 @@
 
 ### Hola amigo , I'm [Mohit shukla!](https://mohitshukla.live) 👋
 
+<!--h3 align="center"> Data Scientist </h3--><br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mstoned&label=Views&color=blue&style=plastic" alt="Mstoned" /> </p>
 
 <a href="https://twitter.com/mstoned09">
@@ -13,10 +15,10 @@
 <a href="https://github.com/Mstoned">
   <img align="left" alt="Mohit's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://t.me/9643455396">
+<!--a href="https://t.me/">
   <img align="left" alt="Mohit's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.facebook.com/mohit.shukla.165685">
+</a-->
+<a href="https://www.facebook.com/mohit.shukla.165685/">
   <img align="left" alt="Mohit's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
@@ -30,6 +32,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Rasa documentation
 - 💬 Ask me about Data Science releated stuff.
 - 😄 Pronouns: He/His
+-<details> <summary> 📫  How to reach me :</summary><a href="mailto:iammohitshukla9@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="22px"/> </a>
+</details>
 - ⚡ Fun fact: ...Depends 
 -->
 
@@ -44,7 +48,9 @@ Here are some ideas to get you started:
 <h2 align="center">📫 Reach out to me on</h2>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/mohit-shukla-597170141/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  
   <a target="_blank"href="https://twitter.com/mstoned09"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  
   <a href="mailto:iammohitshukla9@gmail.com?subject=Hello%20Harsh,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
