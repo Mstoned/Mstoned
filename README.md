@@ -13,7 +13,7 @@
 <a href="https://github.com/Mstoned">
   <img align="left" alt="Mohit's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://t.me/Moksh">
+<a href="https://t.me/9643455396">
   <img align="left" alt="Mohit's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://www.facebook.com/mohit.shukla.165685">
@@ -29,9 +29,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on **chatbot project**
 - 🤔 I’m looking for help with Rasa documentation
 - 💬 Ask me about Data Science releated stuff.
-- 📫 How to reach me:  [Gmail- iammohitshukla9@gmail.com]
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...Depends 
 -->
 
 <h2 align="center">🐦 Github Statistics </h2>
