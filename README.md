@@ -1,9 +1,6 @@
-<img align="right" alt="GIF"  width="300px" src="http://gph.is/1Tik36q" />
+<img align="right" alt="GIF"  width="300px" src="https://media.giphy.com/media/nPxVvyTWo1aIU/giphy.gif" />
 
 ### Hola amigo , I'm [Mohit shukla!](https://mohitshukla.live) 👋
-
-<!--
-**Mstoned/Mstoned** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
