@@ -1,4 +1,6 @@
-### Hi there 👋
+<img align="right" alt="GIF"  width="300px" src="http://gph.is/1Tik36q" />
+
+### Hola amigo , I'm [Mohit shukla!](https://mohitshukla.live) 👋
 
 <!--
 **Mstoned/Mstoned** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,7 +27,7 @@ Here are some ideas to get you started:
 
 <h2 align="center">📫 Reach out to me on</h2>
 <p align="center">
-  <a target="_blank"href="https://www.linkedin.com/in/Mohitshukla"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://www.linkedin.com/in/mohit-shukla-597170141/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://twitter.com/mstoned09"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:iammohitshukla9@gmail.com?subject=Hello%20Harsh,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
