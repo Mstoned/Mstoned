@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mstoned&theme=light&hide_langs_below=1" />
 </a>
 <a href="https://github.com/Mstoned">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mstoned&show_icons=true&theme=light&line_height=27" alt="Mohit 's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mstoned&show_icons=true&theme=dark&line_height=27" alt="Mohit 's github stats"/>
 </a>
 
 
