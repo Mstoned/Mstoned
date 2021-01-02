@@ -32,8 +32,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Rasa documentation
 - 💬 Ask me about Data Science releated stuff.
 - 😄 Pronouns: He/His
--<details> <summary> 📫  How to reach me :</summary><a href="mailto:iammohitshukla9@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="22px"/> </a>
-</details>
+- 📫 How to reach me:</summary><a href="mailto:iammohitshukla9@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="22px"/> </a>
 - ⚡ Fun fact: ...Depends 
 -->
 
