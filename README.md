@@ -1,16 +1,36 @@
-<img align="right" alt="GIF"  width="300px" src="https://media.giphy.com/media/nPxVvyTWo1aIU/giphy.gif" />
+<img align="right" alt="GIF"  width="300px" src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" />
 
 ### Hola amigo , I'm [Mohit shukla!](https://mohitshukla.live) 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mstoned&label=Views&color=blue&style=plastic" alt="Mstoned" /> </p>
+
+<a href="https://twitter.com/mstoned09">
+  <img align="left" alt="Mohit's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/mohit-shukla-597170141">
+  <img align="left" alt="Mohit's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/Mstoned">
+  <img align="left" alt="Mohit's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://t.me/Moksh">
+  <img align="left" alt="Mohit's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://www.facebook.com/mohit.shukla.165685">
+  <img align="left" alt="Mohit's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+
+<br/>
+<br/>
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 🔭 I’m currently working on **Machine learning**
+- 🌱 I’m currently learning **Natural Language Processing**
+- 👯 I’m looking to collaborate on **chatbot project**
+- 🤔 I’m looking for help with Rasa documentation
+- 💬 Ask me about Data Science releated stuff.
+- 📫 How to reach me:  [Gmail- iammohitshukla9@gmail.com]
+- 😄 Pronouns: He/His
 - ⚡ Fun fact: ...
 -->
 
