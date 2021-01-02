@@ -1,4 +1,4 @@
-<img align="right" alt="GIF"  width="300px" src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" />
+<img align="right" alt="GIF"  width="300px" src="https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif" />
 
 ### Hola amigo , I'm [Mohit shukla!](https://mohitshukla.live) 👋
 
@@ -25,7 +25,7 @@
 
 <br/>
 <br/>
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on **Machine learning**
 - 🌱 I’m currently learning **Natural Language Processing**
