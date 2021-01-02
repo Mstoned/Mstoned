@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 <h2 align="center">🐦 Github Statistics </h2>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=harshcasper&layout=compact&hide=html&theme=jolly" alt="harshcasper" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=Mstoned&layout=compact&hide=html&theme=jolly" alt="Mstoned" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
