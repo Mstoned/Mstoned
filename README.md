@@ -2,6 +2,9 @@
 
 ### Hola amigo , I'm [Mohit shukla!](https://mohitshukla.live) 👋
 
+
+[![website](https://img.shields.io/badge/PortfolioWebsite-mohitshukla.live-2648ff?style=flat-square&logo=google-chrome)](https://mohitshukla.live/)
+[![Repos Badge](https://badges.pufler.dev/repos/Mstoned)](https://badges.pufler.dev/repos/Mstoned)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mstoned&label=Views&color=blue&style=plastic" alt="Mstoned" /> </p>
 
 <a href="https://twitter.com/mstoned09">
