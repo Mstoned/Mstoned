@@ -58,19 +58,10 @@
   <summary>GitHub Trophies 🏆</summary>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=Mstoned-das&theme=gruvbox&layout=compact&title_color=00FF00"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Mstoned&theme=gruvbox&layout=compact&title_color=00FF00"/>
   </a>
 </p>
 </details>
-
-
-
-<br>
-
-|      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs 😎  |
-|-------------|-------------------|---|---|
-| [**Project-Guidance**](https://github.com/Mstoned/Project-Guidance) | [![GitHub issues](https://img.shields.io/github/issues/Mstoned/Project-Guidance?color=green&logo=github&style=flat)](https://github.com/Mstoned/Project-Guidance/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/Mstoned/Project-Guidance?style=flat&logo=github)](https://github.com/Mstoned/Project-Guidance/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/Mstoned/Project-Guidance?style=flat&color=critical&logo=github)](https://github.com/Mstoned/Project-Guidance/pulls?q=is%3Apr+is%3Aclosed)   |
-
 
 
 
