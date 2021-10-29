@@ -1,6 +1,6 @@
 <img align="right" alt="GIF"  width="300px" src="https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif" />
 
-### Hola amigo , I'm [Mohit shukla!](https://mohitshukla.live) 👋
+### Hola amigo , I'm [Mohit shukla!](https://mohitshukla.info) 👋
 
 
 [![website](https://img.shields.io/badge/PortfolioWebsite-mohitshukla.live-2648ff?style=flat-square&logo=google-chrome)](https://mohitshukla.live/)
